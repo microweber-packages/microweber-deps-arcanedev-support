@@ -7,5 +7,9 @@ parameters:
         - src
     excludePaths:
         - src/tests (?)
+        - src/Tests (?)
         - tests (?)
+        - Tests (?)
+        - src/Providers/AuthorizationServiceProvider.php (?)
+        - src/Providers/RouteServiceProvider.php (?)
     reportUnmatchedIgnoredErrors: false
